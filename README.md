@@ -4,10 +4,10 @@ A low(ish) contrast dark red theme for VSCode
 
 ## Screenshots
 
-![Python](screenshots/python.png)
+![Python](https://raw.githubusercontent.com/seanjan00/SilentRed/master/screenshots/python.png)
 Python command line program
 
-![C and C# code](screenshots/candcs.png)
+![C and C# code](https://raw.githubusercontent.com/seanjan00/SilentRed/master/screenshots/candcs.png)
 C and C# code using the split editor
 
 ## Installation

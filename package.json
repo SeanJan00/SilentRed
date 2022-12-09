@@ -1,0 +1,21 @@
+{
+  "name": "silent-red",
+  "displayName": "Silent Red",
+  "description": "A low(ish) contrast dark red theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Silent Red",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Silent Red-color-theme.json"
+      }
+    ]
+  }
+}

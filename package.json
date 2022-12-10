@@ -2,7 +2,7 @@
   "name": "silent-red",
   "displayName": "Silent Red Theme",
   "description": "A low(ish) contrast dark red theme for VSCode",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.74.0"
   },
